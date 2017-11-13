@@ -1,0 +1,3 @@
+[submodule "modules/freeosek"]
+	path = modules/freeosek
+	url = https://github.com/evolentini/firmware.modules.rtos.git
